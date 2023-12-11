@@ -1,4 +1,4 @@
-### Analyzing the Salary by Job Title and Country - Data Science Portfolio Project CodeCademy
+### Analyzing the Salary by Job Title and Country - Python Portfolio Project CodeCademy
 ## Project Overview:
 This project explores demographic trends, gender dynamics, educational landscapes and global representation in a dataset on salaries. It delves into salary analysis, investigates the correlation between experience and salary, and examines race, ethnicity, and geographical variations. Additionally, the study explores age-education correlations, salary disparities among ethnicities and gender-based education levels. The analysis identifies common job titles, explores age distributions by gender, and concludes with a focus on seniority levels and gender distribution across different seniority levels.
 
